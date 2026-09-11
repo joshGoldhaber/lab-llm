@@ -443,7 +443,7 @@ You must:
 1. Modify the code block below so that it contains the output of the command below
     ```
     $ qwen 'what is .bashrc?'
-    <add_your_programs_response_here>
+    `.bashrc` is a shell script that is automatically sourced by the Bash shell every time you open a new interactive terminal window. It is primarily used to store user-specific environment variables, aliases, and configuration settings.
     ```
 
 1. Push your changes to github.
